@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818591550674",
+    "project_id": "sittingdetection-6d772",
+    "storage_bucket": "sittingdetection-6d772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818591550674:android:6288d6df9165ba1166f10b",
+        "android_client_info": {
+          "package_name": "com.chunyu.sittingdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818591550674-jpte9asfh52kvdq8t49lh5faq2nhqcig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBos5ShBcMQtzZk8W9vBfdcKu_CcARcptQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818591550674-jpte9asfh52kvdq8t49lh5faq2nhqcig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
